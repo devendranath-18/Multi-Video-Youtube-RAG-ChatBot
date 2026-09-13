@@ -1,0 +1,7 @@
+venv/
+.env
+node_modules/
+data/
+.next/
+__pycache__/
+archive/
